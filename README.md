@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a data scientist, interested in Computer Vision and Deep Learning. 
 
-- 🔭 I am work at [Tricog(India)](https://www.tricog.com/) as Senior Data Scientist. 
-- 🌱 I am developing deep learning based tools for doctors and health technicians in the field of Cardiology. 
-- 💬 Previously, I worked with [Abeja](http://abejainc.com/en/) in Singapore and Tokyo. 
+- 🔭 works at [Tricog(India)](https://www.tricog.com/).  
+- 🌱 develops deep learning based tools for doctors and health technicians in the field of Cardiology. 
+- 💬 Previously, @ [Abeja](http://abejainc.com/en/) in Singapore and Tokyo. 
 
